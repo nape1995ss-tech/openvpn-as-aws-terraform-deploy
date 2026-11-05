@@ -1,4 +1,4 @@
-
+1
 # OpenVPN Access Server Deployment on AWS Cloud Using Terraform
 
 This Terraform project automates the deployment of an **OpenVPN Access Server**. The OpenVPN Access Server is installed on a generic Linux instance using a custom script executed via **cloud-init** during the provisioning process.
